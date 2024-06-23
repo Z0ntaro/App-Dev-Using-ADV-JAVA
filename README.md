@@ -25,7 +25,7 @@
         <h2>Screenshots</h2>
         <p>Here are some screenshots of the application:</p>
         <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(337).png" alt="Screenshot 1">
-        <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(337).png" alt="Screenshot 2">
+        <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(333).png" alt="Screenshot 2">
         <h2>Connect with Me</h2>
         ## Follow me
             <a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
