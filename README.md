@@ -27,7 +27,7 @@
         <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(337).png" alt="Screenshot 1">
         <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(333).png" alt="Screenshot 2">
         <h2>Connect with Me</h2>
-        ## Follow me
+        ## Follow me @
             <a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
             <a href="https://www.linkedin.com/in/arghyadeep-paul-039445204/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arghyadeep Paul" height="30" width="120" /></a>
             <a href="https://twitter.com/zontaro_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="z0ntaro" height="30" width="100" /></a>
@@ -41,7 +41,7 @@
             <li>Run the application: <code>java MainClass</code></li>
         </ol>
         <h2>Contact</h2>
-        <p>If you have any questions or suggestions, feel free to reach out to me via email at <a href="mailto:Arghyadeep0786@gmail.com">Arghyadeep0786@gmail.com</a>.</p>
+        <p>If you have any questions or suggestions, feel free to reach out to me via email at <a href="mailto:Arghyadeep.0786@gmail.com">Arghyadeep.0786@gmail.com</a>.</p>
         <p>Thank you for visiting my repository!</p>
 </body>
 </html>
