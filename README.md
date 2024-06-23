@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Java Project - Domino's Pizza UI made an ui of wall-mart dominos pizza XD</title>
 </head>
 <body>
     <h1>Advanced Java Project - Domino's Pizza UI</h1>
-        <p>Welcome to the repository for my Advanced Java project! This project involves creating a user interface for Domino's Pizza.</p>
+        <p>Welcome to the repository for my Advanced Java project! This project involves creating a user interface for Domino's Pizza from Wall-mart XD.</p>
         <h2>Project Overview</h2>
         <p>This project demonstrates the use of Advanced Java concepts to build a fully functional UI for ordering Domino's Pizza. The project includes features such as:</p>
         <ul>
@@ -25,12 +24,14 @@
         </ul>
         <h2>Screenshots</h2>
         <p>Here are some screenshots of the application:</p>
-        <img src="https://link-to-your-screenshot1.jpg" alt="Screenshot 1">
-        <img src="https://link-to-your-screenshot2.jpg" alt="Screenshot 2">
+        <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(337).png" alt="Screenshot 1">
+        <img src="https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA/blob/9cb8b4e9a7fc95485ba9746bc79a74e9c842d511/results/Screenshot%20(337).png" alt="Screenshot 2">
         <h2>Connect with Me</h2>
-        <p>Follow me on Instagram for more updates on my projects:</p>
-        <a href="https://www.instagram.com/your_instagram_handle/" target="_blank">
-            <img src="https://link-to-instagram-logo.png" alt="Instagram" style="width: 50px; height: 50px;">
+        ## Follow me
+            <a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
+            <a href="https://www.linkedin.com/in/arghyadeep-paul-039445204/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arghyadeep Paul" height="30" width="120" /></a>
+            <a href="https://twitter.com/zontaro_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="z0ntaro" height="30" width="100" /></a>
+            <a href="https://instagram.com/zontaro.ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
         </a>
         <h2>Usage Instructions</h2>
         <ol>
