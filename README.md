@@ -35,13 +35,13 @@
         </a>
         <h2>Usage Instructions</h2>
         <ol>
-            <li>Clone the repository: <code>git clone https://github.com/your_username/your_repo_name.git</code></li>
-            <li>Navigate to the project directory: <code>cd your_repo_name</code></li>
+            <li>Clone the repository: <code>git clone https://github.com/Z0ntaro/App-Dev-Using-ADV-JAVA.git</code></li>
+            <li>Navigate to the project directory: <code>cd App-Dev-Using-ADV-JAVA</code></li>
             <li>Compile the Java files: <code>javac *.java</code></li>
             <li>Run the application: <code>java MainClass</code></li>
         </ol>
         <h2>Contact</h2>
-        <p>If you have any questions or suggestions, feel free to reach out to me via email at <a href="mailto:your_email@example.com">your_email@example.com</a>.</p>
+        <p>If you have any questions or suggestions, feel free to reach out to me via email at <a href="mailto:Arghyadeep0786@gmail.com">Arghyadeep0786@gmail.com</a>.</p>
         <p>Thank you for visiting my repository!</p>
 </body>
 </html>
